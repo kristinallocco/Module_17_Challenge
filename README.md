@@ -8,6 +8,7 @@ The purpose of this project was to utilize imbalanced-learn and scikit-learn lib
 Niave random oversampling
 <img width="647" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/85713470/136726105-daddd20e-727f-43f2-b96c-c77d86814894.png">
 
+
 SMOTE Oversampling
 <img width="669" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/85713470/136726126-d7d2d32d-e8f9-4040-8e05-e4bbb8b47dca.png">
 
