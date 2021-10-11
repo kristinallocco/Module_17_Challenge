@@ -27,3 +27,4 @@ The purpose of this project was to utilize imbalanced-learn and scikit-learn lib
 
 
 ## Summary
+In this project, several different models were created though various techniques. When comparing the results, it appears that the Easy Ensemble is the best depiction of the risk assessment due to the high accuracy score as well as a balance of precision and recall scores.
